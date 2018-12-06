@@ -1,4 +1,4 @@
-# Source Control Export
+# Excel Code Export
 
 An Add-In that exports individual files so they can be added/diffed in source control. The only version is currently in VBA.
 
