@@ -8,3 +8,7 @@ An Add-In that exports individual module, class, form and XML ribbon files so th
 [![GitHub issues](https://img.shields.io/github/issues/Excel-projects/Excel-Source-Control-Export.svg)](https://github.com/Excel-projects/Excel-Source-Control-Export/issues)
 
 * Tested on Windows 7 / Excel 2016
+
+<h1 align="left">
+  <img src="Images/ReadMe/immediate.window.png" />
+</h1>
