@@ -1,6 +1,6 @@
 # Excel Code Export
 
-An Add-In that exports individual files so they can be added/diffed in source control. The only version is currently in VBA.
+An Add-In that exports individual module, class, form and XML ribbon files so they can be added/diffed in source control. The only version is currently in VBA.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 [![Latest Release](https://img.shields.io/github/release/Excel-projects/Excel-Source-Control-Export.svg?label=latest%20release)](https://github.com/Excel-projects/Excel-Source-Control-Export/releases)
